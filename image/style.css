@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+    font-family: 'Redressed', cursive;}
+h1{
+    font-size: 50px;
+}
+.name-highlight{color: rgba(255, 166, 0, 0.884);}
+.half-width{width: 37%;
+float: left;
+margin-left: 5%;
+padding-left: 3%;
+}
+.half-width img{width: 100%;}
+.top-banner{background-image:url(top-banner.png);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+section{height: 500px;}

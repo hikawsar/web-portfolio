@@ -36,3 +36,34 @@ p{color: dimgrey;}
     background-repeat: no-repeat;
     background-position: right;
 } 
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    height: 30%;
+    width: 41%;
+    text-align:center;
+    margin-top: 90px;
+    background-color: white;
+    
+}
+.experience-area{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+
+}
+#border1{
+    border-left: 5px solid rgb(87, 84, 83) ;
+    border-image: linear-gradient(45deg,lightsteelblue tomato);
+    border-image-slice: 1;
+}
+#baby{
+    border-left: 5px solid rgb(92, 32, 233) ;
+    border-image: linear-gradient(45deg,rgb(89, 138, 202) rgb(228, 135, 119));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
